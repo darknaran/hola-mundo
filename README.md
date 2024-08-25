@@ -1,0 +1,1 @@
+Este proyecto tiene la intencion de saber como se utiliza la parte del commit de git para hacer los respectivos cambios a los archivos y saber cuantos cambios se an realizado
